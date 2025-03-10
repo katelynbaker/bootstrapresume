@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body{
+font-family: trebuchetMS, sans-serif;
+color: white;
+background-color: slateblue ;
+padding: 20px;
+margin: 20px;
+line-height: 1.6;
+	}
+
+h1 {
+ font-size: 60px;
+ text-transform: uppercase;
+}
+
+img {
+	border: 5px solid;
+}
+a {
+	color: gold;
+}
+.headersection {
+	text-align: center;}
+h2 {
+	text-transform: uppercase;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    background-image: url('bullet.png');
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 25px;
+}
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
